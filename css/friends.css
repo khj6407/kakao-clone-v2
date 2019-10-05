@@ -2,10 +2,10 @@
     padding-bottom: 20px;
 }
 .friends .friends__plus, .friends__list li{
-    margin: 20px 0;
     bottom: 20px 0;
     border-bottom: 1px solid #f7f7f7;
     border-top: 1px solid #f7f7f7;
+    margin: 20px 0;
 }
 .friends__plus .friends__title, .friends__list .friends__title{
     font-size: 14px;
